@@ -13,6 +13,6 @@ Hi, my name is Michael Yalon. I'm currently learning JavaScript and am passionat
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=themickymix&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=themickymix&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=themickymix&label=Visitors&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
